@@ -14,3 +14,4 @@
 - The application is not production ready.
 - The application is not fully secure.
 - It wasn't done using the best practices
+- testing git with ssh
