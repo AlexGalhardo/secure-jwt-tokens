@@ -15,3 +15,4 @@
 - The application is not fully secure.
 - It wasn't done using the best practices
 - testing git with ssh
+- testing ssh again
